@@ -14,14 +14,12 @@
   <a href="https://linkedin.com/in/harsh-gupta-546092205"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<p align="center">
-  <b>Machine Learning | Deep Learning | Computer Vision</b><br>
-  AI-powered solutions for real world problems <br>
-  Turning complex data into insights
-</p>
+---
+
+<h3 align="center">🚀 AI/ML Developer • Data Enthusiast • Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=🚀+AI/ML+Developer+•+Data+Enthusiast+•+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;AI-powered+solutions+for+real+world+problems;Turning+complex+data+into+insights" alt="Typing SVG" />
 </p>
 
 ---
